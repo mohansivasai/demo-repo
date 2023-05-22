@@ -1,2 +1,3 @@
 This is file3.txt
 Adding second line from sub-branch-2
+This is thied line from sub-branmhc-2 three-way-merge
