@@ -1,1 +1,2 @@
 This is file3.txt
+Adding second line from sub-branch-2
